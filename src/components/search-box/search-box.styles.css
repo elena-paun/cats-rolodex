@@ -1,0 +1,42 @@
+.search {
+  -webkit-appearance: none;
+  border-radius: 25px;
+
+  box-shadow: inset 8px 8px 8px #e2e2e2, inset -8px -8px 8px #ffffff;
+  padding: 20px 20px 20px 5px;
+  width: 200px;
+  line-height: 10px;
+  margin-bottom: 100px;
+  text-align: center;
+  border: none;
+  background: none;
+  outline: none;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  color: #555;
+  padding: 20px 10px 20px 5px;
+}
+
+svg {
+  height: 30px;
+  margin: 0 -33px 0px 10px;
+}
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #444444;
+}
+
+.svg-icon circle {
+  stroke: #444444;
+  stroke-width: 1;
+}
